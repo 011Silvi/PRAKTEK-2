@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+     
+    body{
+    background: #9f9fde;
+    text-align: left;
+    align-items: last baseline;
+    }
+     
+   
+     
+    section img{
+    border-radius: 50%;
+    border: 5px solid #203e4b;
+
+    }
+    img{
+        width: 100px;
+        height: 100px;
+
+    }
+
+    .deskripsi .container{
+        display: flex;
+        
+
+    }
+    BODY
+            {
+                margin-top :1cm;
+                margin-right: 2cm;
+                margin-bottom: 1cm;
+                margin-left: 2cm;
+            }
+            img {
+            margin: 30px;
+            padding: 0px;
+            width: 500px;
+            height: px;
+            box-shadow: 3px 3px 10px;
+            text-align: left;
+            }
+            text{ 
+                text-align: justify;
+                text-justify: inter-word;
+            }
+            div.b {
+            text-align: justify;
+            }
+        div.a{ 
+            list-style-type: none;
+            margin:0;
+            padding:0;
+            overflow:hidden;
+            background-color: grey;
+
+        }
